@@ -1,4 +1,4 @@
-name: React app deployement
+name: React App Deployment
 
 on:
   push:
@@ -8,12 +8,15 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-    
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout
+      uses: actions/checkout@v1
+    - name: Build
+      run:  |
+        npm install
+        npm run build
       env:
           REACT_APP_MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
-    - name: Deploy react app to github pages
+    - name: Deploy
       uses: tanwanimohit/deploy-react-to-ghpages@v1.0.1
