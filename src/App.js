@@ -6,7 +6,7 @@ import {dataLayer} from './map-style.js';
 import "./App.css"
 import {updatePercentiles} from './utils'
 
-const TOKEN = process.env.MAPBOX_TOKEN
+const TOKEN = process.env.REACT_APP_MAPBOX_TOKEN
 
 function App() {
   const [viewport, setViewport] = React.useState({

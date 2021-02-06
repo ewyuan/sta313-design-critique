@@ -7,7 +7,10 @@ function ControlPanel(props) {
     <div className="control-panel">
       <h3>Visualize Unemployment Rates in Canada</h3>
       <p>
-        Map showing unemployment rates by province/territory in year <b>{year}</b>. Hover over a province/territory to
+        Map showing unemployment rates by province/territory in year <b>{year}</b>. 
+      </p>
+      <p>
+        Hover over a province/territory to
         see unemployment rates, and percentile for that year.
       </p>
       <p>
