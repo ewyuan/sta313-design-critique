@@ -59,6 +59,7 @@ function App() {
         height="100vh"
         interactiveLayerIds={['data']}
         onHover={onHover}
+        onViewportChange={setViewport}
         mapStyle="mapbox://styles/mapbox/light-v9"
       >
         <Source type="geojson" data={data}>
