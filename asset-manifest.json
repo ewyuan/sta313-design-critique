@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sta313-design-critique/static/css/main.39e5504f.chunk.css",
-    "main.js": "/sta313-design-critique/static/js/main.e035fec6.chunk.js",
-    "main.js.map": "/sta313-design-critique/static/js/main.e035fec6.chunk.js.map",
+    "main.js": "/sta313-design-critique/static/js/main.9efb1505.chunk.js",
+    "main.js.map": "/sta313-design-critique/static/js/main.9efb1505.chunk.js.map",
     "runtime-main.js": "/sta313-design-critique/static/js/runtime-main.8cf7c0b9.js",
     "runtime-main.js.map": "/sta313-design-critique/static/js/runtime-main.8cf7c0b9.js.map",
     "static/js/2.fec02551.chunk.js": "/sta313-design-critique/static/js/2.fec02551.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8cf7c0b9.js",
     "static/js/2.fec02551.chunk.js",
     "static/css/main.39e5504f.chunk.css",
-    "static/js/main.e035fec6.chunk.js"
+    "static/js/main.9efb1505.chunk.js"
   ]
 }
