@@ -6,7 +6,7 @@ import {dataLayer} from './map-style.js';
 import "./App.css"
 import {updatePercentiles} from './utils'
 
-const TOKEN = "pk.eyJ1IjoiZXd5dWFuIiwiYSI6ImNra3QzdXA3OTByemoycXFtZ3Y2OGtvbHoifQ.WseIrpWX6gQmc5Wi6OQX9A"
+const TOKEN = process.env.REACT_APP_MAPBOX_TOKEN
 
 function App() {
   const [viewport, setViewport] = React.useState({
