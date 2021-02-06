@@ -5,7 +5,7 @@ function ControlPanel(props) {
 
   return (
     <div className="control-panel">
-      <h3>Visualize Unemployment Rates in Canada</h3>
+      <h3>Visualizing Unemployment Rates in Canada</h3>
       <p>
         Map showing unemployment rates by province/territory in year <b>{year}</b>. 
       </p>
