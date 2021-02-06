@@ -21,7 +21,6 @@ function App() {
 
   useEffect(() => {
     /* global fetch */
-    console.log(TOKEN)
     fetch(
       'https://raw.githubusercontent.com/ewyuan/sta313-design-critique/master/src/data/unemployment-data.geojson'
     )
