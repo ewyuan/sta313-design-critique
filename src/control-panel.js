@@ -23,7 +23,7 @@ function ControlPanel(props) {
         <input
           type="range"
           value={year}
-          min={2001}
+          min={2004}
           max={2020}
           step={1}
           onChange={evt => props.onChange(evt.target.value)}

@@ -15,7 +15,7 @@ function App() {
     zoom: 3
   });
 
-  const [year, setYear] = useState(2001)
+  const [year, setYear] = useState(2004)
   const [allData, setAllData] = useState(null)
   const [hoverInfo, setHoverInfo] = useState(null)
 
