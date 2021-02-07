@@ -18,6 +18,6 @@ export const dataLayer = {
         [9, '#ff0000']
       ]
     },
-    'fill-opacity': .7
+    'fill-opacity': .6
   }
 };

@@ -21,6 +21,7 @@ body {
   color: #000000;
   outline: none;
   text-transform: uppercase;
+  border-radius: 10px;
 }
 
 label {
@@ -43,6 +44,7 @@ input {
   font-size: 10px;
   z-index: 9;
   pointer-events: none;
+  border-radius: 5px;
 }
 
 .year {
