@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/sta313-design-critique/static/css/main.39e5504f.chunk.css",
-    "main.js": "/sta313-design-critique/static/js/main.9efb1505.chunk.js",
-    "main.js.map": "/sta313-design-critique/static/js/main.9efb1505.chunk.js.map",
+    "main.css": "/sta313-design-critique/static/css/main.15538565.chunk.css",
+    "main.js": "/sta313-design-critique/static/js/main.96d94100.chunk.js",
+    "main.js.map": "/sta313-design-critique/static/js/main.96d94100.chunk.js.map",
     "runtime-main.js": "/sta313-design-critique/static/js/runtime-main.8cf7c0b9.js",
     "runtime-main.js.map": "/sta313-design-critique/static/js/runtime-main.8cf7c0b9.js.map",
     "static/js/2.fec02551.chunk.js": "/sta313-design-critique/static/js/2.fec02551.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.0f1cdc5b.chunk.js": "/sta313-design-critique/static/js/3.0f1cdc5b.chunk.js",
     "static/js/3.0f1cdc5b.chunk.js.map": "/sta313-design-critique/static/js/3.0f1cdc5b.chunk.js.map",
     "index.html": "/sta313-design-critique/index.html",
-    "static/css/main.39e5504f.chunk.css.map": "/sta313-design-critique/static/css/main.39e5504f.chunk.css.map",
+    "static/css/main.15538565.chunk.css.map": "/sta313-design-critique/static/css/main.15538565.chunk.css.map",
     "static/js/2.fec02551.chunk.js.LICENSE.txt": "/sta313-design-critique/static/js/2.fec02551.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8cf7c0b9.js",
     "static/js/2.fec02551.chunk.js",
-    "static/css/main.39e5504f.chunk.css",
-    "static/js/main.9efb1505.chunk.js"
+    "static/css/main.15538565.chunk.css",
+    "static/js/main.96d94100.chunk.js"
   ]
 }
