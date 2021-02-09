@@ -14,12 +14,12 @@ function ControlPanel(props) {
         see unemployment rates, and percentile for that year.
       </p>
       <p>
-        Data source: <a href="https://www.statcan.gc.ca">Statistics Canada</a>
+        Data Source: <a href="https://www.statcan.gc.ca">Statistics Canada</a>
       </p>
       <hr />
 
       <div key={'year'} className="input">
-        <label>Year</label>
+        <label>Year <b>{year}</b></label>
         <input
           type="range"
           value={year}
